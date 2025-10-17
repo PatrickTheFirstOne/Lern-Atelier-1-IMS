@@ -25,7 +25,8 @@ Verbesserung beim Arbeiten (siehe Veränderungen).
 ## Fein Planung
 ### 17.10.2025
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich...
+Modul 431: LA_431_1715_Checkliste_anwenden, LA_431_1718_Problemlösetechnik & Execl-Mape gelöst & abgegeben
 
 ### Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete
