@@ -1,0 +1,113 @@
+Zweite Lernperiode
+
+17.10.2025 bis 19.12.2025
+
+## Grobe PLanung
+### Noten
+Noch unklar, da die ersten Prüfungen erst voranstehen
+
+### Veränderungen
+Effizienter und effektiver Arbeiten.
+Lieber draussen oder an ruhigen Orten arbeiten mit Kollegen/Klassenkameraden (wenn möglich natürlich).
+
+### Projekte / neue Technologien
+Gerade keine Interesse in Projekte oder neue Technologien, jedoch nicht auszuschlissen, dass mal etwas interesse weckt.
+Sehr stark gerade auf die schulischen Verpflichtung fokussiert, daher die kleine oder gar keine Interesse in etwas aus der Technik/Informatik.
+
+### Generelle Ziele
+Prüfung von Modul 319 gut absolvieren, gleich auch mit der Abgabe von Modul 431.
+Modul 162 gut anfangen und im Dezember die Prüfung/Abgabe gut absolvieren.
+Kommendes Projekt gut starten und erfolgreich im Dezember absolvieren.
+Im Dezember das neue Modul 117 kennenlernen.
+Verbesserung beim Arbeiten (siehe Veränderungen).
+
+
+## Fein Planung
+### 17.10.2025
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 24.10.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 31.10.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 07.11.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### PLanung 14.11.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 21.11.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Plaung 28.11.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 05.12.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 12.12.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+### Planung 19.12.2025
+3 bis 5 klar messbare Arbeitspakete
+
+-[] Erstes Arbeitspaket
+-[]
+-[]
+
+Heute habe ich... (50-100 Wörter)
+
+
+### Lernperiode Reflexion
+In dieser Lernperiode habe ich... (100-150 Wörter)
