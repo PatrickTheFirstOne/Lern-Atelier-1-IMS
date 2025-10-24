@@ -34,14 +34,13 @@ Modul 431: LA_431_1715_Checkliste_anwenden, LA_431_1718_Problemlösetechnik & Ex
 - [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
 - [] Zeitplan planen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich einen Taschenrechner mithilfe eines YouTube-Erklär-Videos erstellt.
 
 ### Planung 31.10.2025
-3 bis 5 klar messbare Arbeitspakete
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [] Etwas programmieren
+- [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [] Zeitplan planen
 
 Heute habe ich... (50-100 Wörter)
 
