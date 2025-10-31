@@ -38,18 +38,18 @@ Heute habe ich einen Taschenrechner mithilfe eines YouTube-Erklär-Videos erstel
 
 ### Planung 31.10.2025
 
-- [] Etwas programmieren
+- [x] Etwas programmieren
 - [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
-- [] Zeitplan planen
+- [X] Zeitplan planen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich versucht ein Würfelspiel zu Programmieren, dass auf Zufall eine oder mehrere Zahlen würfelt. Das Programm ist noch nicht fertig. Nächste Woche oder zu Hause würde ich dort weiter arbeiten. Ich nahm als hilfe ein YouTube Video zur unterstüzung beim Programmieren.
 
 ### Planung 07.11.2025
 3 bis 5 klar messbare Arbeitspakete
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [] Etwas programmieren oder weiter an etwas Programmieren
+- [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [] Zeitplan planen
 
 Heute habe ich... (50-100 Wörter)
 
