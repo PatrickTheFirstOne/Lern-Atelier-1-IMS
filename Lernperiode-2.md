@@ -45,7 +45,6 @@ Heute habe ich einen Taschenrechner mithilfe eines YouTube-Erklär-Videos erstel
 Heute habe ich versucht ein Würfelspiel zu Programmieren, dass auf Zufall eine oder mehrere Zahlen würfelt. Das Programm ist noch nicht fertig. Nächste Woche oder zu Hause würde ich dort weiter arbeiten. Ich nahm als hilfe ein YouTube Video zur unterstüzung beim Programmieren.
 
 ### Planung 07.11.2025
-3 bis 5 klar messbare Arbeitspakete
 
 - [] Etwas programmieren oder weiter an etwas Programmieren
 - [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
@@ -54,7 +53,6 @@ Heute habe ich versucht ein Würfelspiel zu Programmieren, dass auf Zufall eine 
 Heute habe ich... (50-100 Wörter)
 
 ### PLanung 14.11.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
@@ -63,7 +61,6 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 21.11.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
@@ -72,7 +69,6 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich... (50-100 Wörter)
 
 ### Plaung 28.11.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
@@ -81,7 +77,6 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 05.12.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
@@ -90,7 +85,6 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 12.12.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
@@ -99,7 +93,6 @@ Heute habe ich... (50-100 Wörter)
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 19.12.2025
-3 bis 5 klar messbare Arbeitspakete
 
 -[] Erstes Arbeitspaket
 -[]
