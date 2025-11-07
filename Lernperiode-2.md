@@ -46,17 +46,17 @@ Heute habe ich versucht ein Würfelspiel zu Programmieren, dass auf Zufall eine 
 
 ### Planung 07.11.2025
 
-- [] Etwas programmieren oder weiter an etwas Programmieren
+- [] Etwas programmieren
 - [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
-- [] Zeitplan planen
+- [X] Zeitplan planen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich für unsere Informatik-Projekt "Zinsrechner" gearbeitet. Ich habe mit meinen Teammitglieder zussammen das programmieren des Programms für das Projekt angeschaut und selber gedanken gemacht für die Gestaltung des GUI.
 
 ### PLanung 14.11.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [] Etwas programmieren oder weiter an etwas Programmieren
+- [] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [] Zeitplan planen
 
 Heute habe ich... (50-100 Wörter)
 
