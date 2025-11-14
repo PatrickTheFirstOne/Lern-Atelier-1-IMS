@@ -55,16 +55,16 @@ Heute habe ich für unsere Informatik-Projekt "Zinsrechner" gearbeitet. Ich habe
 ### PLanung 14.11.2025
 
 - [ ] Weiter am Programm "Würfspiel" programmieren
-- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [x] Am Infromatik-Projekt "Zinsrechner" arbeiten
 - [ ] Zeitplan planen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich mit meinen Team über das IT-Projekt gesprochen. Wir haben über das Programmieren und der GUI geredet. Es ging ohne jegliche grosse Diskussion durch und wir konnten unsere Punkte klären.
 
 ### Planung 21.11.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [ ] Weiter am Programm "Würfspiel" programmieren
+- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [ ] Zeitplan planen
 
 Heute habe ich... (50-100 Wörter)
 
