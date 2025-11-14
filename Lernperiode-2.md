@@ -31,7 +31,7 @@ Modul 431: LA_431_1715_Checkliste_anwenden, LA_431_1718_Problemlösetechnik & Ex
 ### Planung 24.10.2025
 
 - [x] Etwas programmieren (z.B. Taschenrechner)
-- [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [ ] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
 - [x] Zeitplan planen
 
 Heute habe ich einen Taschenrechner mithilfe eines YouTube-Erklär-Videos erstellt.
@@ -39,24 +39,24 @@ Heute habe ich einen Taschenrechner mithilfe eines YouTube-Erklär-Videos erstel
 ### Planung 31.10.2025
 
 - [x] Etwas programmieren
-- [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [ ] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
 - [X] Zeitplan planen
 
 Heute habe ich versucht ein Würfelspiel zu Programmieren, dass auf Zufall eine oder mehrere Zahlen würfelt. Das Programm ist noch nicht fertig. Nächste Woche oder zu Hause würde ich dort weiter arbeiten. Ich nahm als hilfe ein YouTube Video zur unterstüzung beim Programmieren.
 
 ### Planung 07.11.2025
 
-- [] Etwas programmieren
-- [] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [ ] Etwas programmieren
+- [ ] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
 - [X] Zeitplan planen
 
 Heute habe ich für unsere Informatik-Projekt "Zinsrechner" gearbeitet. Ich habe mit meinen Teammitglieder zussammen das programmieren des Programms für das Projekt angeschaut und selber gedanken gemacht für die Gestaltung des GUI.
 
 ### PLanung 14.11.2025
 
-- [] Etwas programmieren oder weiter an etwas Programmieren
-- [] Am Infromatik-Projekt "Zinsrechner" arbeiten
-- [] Zeitplan planen
+- [ ] Weiter am Programm "Würfspiel" programmieren
+- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [ ] Zeitplan planen
 
 Heute habe ich... (50-100 Wörter)
 
