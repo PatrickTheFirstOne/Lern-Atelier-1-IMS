@@ -72,15 +72,15 @@ Heute habe ich mit meinen Team über das IT-Projekt gesprochen. Wir haben über 
 
 ### Planung 21.11.2025
 
-- [ ] Weiter am Programm "Würfspiel" programmieren
+- [X] Weiter am Programm "Würfspiel" programmieren
 - [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
 - [x] Zeitplan planen & erstellen
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich das Programm "Würfelspiel" fertig programmiert und ich habe meinen Zeitplan erstellt. Mit hilfe von einem Youtube-Video, konnte ich das "Würfelspiel" programmieren. Das Video diente zur Erklärung und zur Unterstützung während dem Programmiern.
 
 ### Plaung 28.11.2025
 
-- [ ] Weiter am Programm "Würfspiel" programmieren
+- [ ] Etwas neues Programmieren
 - [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
 - [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
 
