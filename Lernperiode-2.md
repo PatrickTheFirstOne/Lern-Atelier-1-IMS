@@ -74,23 +74,23 @@ Heute habe ich mit meinen Team über das IT-Projekt gesprochen. Wir haben über 
 
 - [ ] Weiter am Programm "Würfspiel" programmieren
 - [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
-- [x] Zeitplan planen
+- [x] Zeitplan planen & erstellen
 
 Heute habe ich... (50-100 Wörter)
 
 ### Plaung 28.11.2025
 
-- [ ] Erstes Arbeitspaket
-- [ ]
-- [ ]
+- [ ] Weiter am Programm "Würfspiel" programmieren
+- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
 
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 05.12.2025
 
-- [ ] Weiter am Programm "Würfspiel" programmieren
-- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
-- [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
+- [ ] Erstes Arbeitspaket
+- [ ]
+- [ ]
 
 Heute habe ich... (50-100 Wörter)
 
