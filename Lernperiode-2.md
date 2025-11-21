@@ -21,6 +21,16 @@ Kommendes Projekt gut starten und erfolgreich im Dezember absolvieren.
 Im Dezember das neue Modul 117 kennenlernen.
 Verbesserung beim Arbeiten (siehe Veränderungen).
 
+### Tages-/Zeitplan
+- 07:30 bis 08:50 Uhr arbeiten
+- 08:50 bis 09:00 Uhr Pause
+- 09:00 bis 10:00 Uhr arbeiten
+- 10:00 bis 10:10 Uhr Pause
+- 10:10 bis 11:20 Uhr arbeiten
+- 11:25 Uhr Aufräumen
+- 11:30 Uhr Abschluss
+
+
 
 ## Fein Planung
 ### 17.10.2025
@@ -70,33 +80,33 @@ Heute habe ich... (50-100 Wörter)
 
 ### Plaung 28.11.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [ ] Erstes Arbeitspaket
+- [ ]
+- [ ]
 
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 05.12.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [ ] Erstes Arbeitspaket
+- [ ]
+- [ ]
 
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 12.12.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [ ] Erstes Arbeitspaket
+- [ ]
+- [ ]
 
 Heute habe ich... (50-100 Wörter)
 
 ### Planung 19.12.2025
 
--[] Erstes Arbeitspaket
--[]
--[]
+- [ ] Erstes Arbeitspaket
+- [ ]
+- [ ]
 
 Heute habe ich... (50-100 Wörter)
 
