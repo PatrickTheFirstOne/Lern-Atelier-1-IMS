@@ -80,17 +80,17 @@ Heute habe ich das Programm "Würfelspiel" fertig programmiert und ich habe mein
 
 ### Plaung 28.11.2025
 
-- [ ] Etwas neues Programmieren
-- [ ] Am Infromatik-Projekt "Zinsrechner" arbeiten
+- [ ] Etwas neues finden zum Programmieren
+- [x] Am Infromatik-Projekt "Zinsrechner" arbeiten
 - [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich an unserem Informatik-Projekt gearbeitet. Ich habe am PowerPoint für die Präsentation nächste Woche am Mittwoch gearbeitet.
 
 ### Planung 05.12.2025
 
-- [ ] Erstes Arbeitspaket
-- [ ]
-- [ ]
+- [ ] Etwas neues finden zum Programmieren
+- [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
+- [ ] ...
 
 Heute habe ich... (50-100 Wörter)
 
