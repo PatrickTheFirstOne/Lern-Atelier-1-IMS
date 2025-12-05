@@ -92,13 +92,13 @@ Heute habe ich an unserem Informatik-Projekt gearbeitet. Ich habe am PowerPoint 
 - [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
 - [ ] ...
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich am Portfolio für das Modul 162 gearbeitet und ich habe einige Dokumente im Explorer neu geordnet.
 
 ### Planung 12.12.2025
 
-- [ ] Erstes Arbeitspaket
-- [ ]
-- [ ]
+- [ ] Etwas neues finden zum Programmieren
+- [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
+- [ ] ...
 
 Heute habe ich... (50-100 Wörter)
 
