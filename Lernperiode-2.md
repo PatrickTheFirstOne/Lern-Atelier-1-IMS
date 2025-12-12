@@ -100,13 +100,13 @@ Heute habe ich am Portfolio für das Modul 162 gearbeitet und ich habe einige Do
 - [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
 - [ ] ...
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich mich über TensorFLow erkundigt und verucht zu verstehen, wie es mit der erstellung einer künstlichen Intelligenz, zusammenhängt.
 
 ### Planung 19.12.2025
 
-- [ ] Erstes Arbeitspaket
-- [ ]
-- [ ]
+- [ ] Etwas neues finden zum Programmieren
+- [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
+- [ ] TensorFlow weiter erkundigen/ausprobieren/informieren
 
 Heute habe ich... (50-100 Wörter)
 
