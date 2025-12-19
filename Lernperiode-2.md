@@ -4,7 +4,7 @@ Zweite Lernperiode
 
 ## Grobe PLanung
 ### Noten
-Noch unklar, da die ersten Prüfungen erst voranstehen
+Meine Noten stehen nicht gut. Sie sind zwischen ungenügend und genügend.
 
 ### Veränderungen
 Effizienter und effektiver Arbeiten.
