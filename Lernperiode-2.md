@@ -106,10 +106,10 @@ Heute habe ich mich über TensorFLow erkundigt und verucht zu verstehen, wie es 
 
 - [ ] Etwas neues finden zum Programmieren
 - [ ] Über ein Informatik-Thema rechechieren (KI/AI, Programmierung von Robotern, etc.)
-- [ ] TensorFlow weiter erkundigen/ausprobieren/informieren
+- [x] TensorFlow weiter erkundigen/ausprobieren/informieren
 
-Heute habe ich... (50-100 Wörter)
+Heute habe ich mich wieder mit TensorFlow auseinandergesetzt und das Programmierprogramm Python kennengelernt.
 
 
 ### Lernperiode Reflexion
-In dieser Lernperiode habe ich... (100-150 Wörter)
+In dieser Lernperiode habe ich gelernt, wie man einen Taschenrechner, ein Würfelspiel und einenen Zinsrechner programmiert und was TensorFlow ist und wie man es mit Python programmiert, um eine künstliche Intelligenz zu erstellen.
