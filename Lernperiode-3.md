@@ -35,7 +35,7 @@ Heute habe ich am Modul 117 weitergearbeitet und ich habe etwas über Künstlich
 ### Planung 16.01.2026
 
 - [ ] Etwas (weiter) programmieren (z.B. Taschenrechner)
-- [ ] Recherche über ein IT-Thema (z.B. Künstliche Inteligenz, Aplikations-/Platformentwicklung, etc.)
+- [ ] Weiter rechechieren an Künstliche Intelligenz und besser kennenlernen
 - [ ] ...
 
 Heute habe ich...
