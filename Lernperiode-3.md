@@ -30,7 +30,7 @@ Unklar, weil ich nach den Sportferien nicht mehr hier sein werde.
 ## Fein Planung
 ### 09.01.2026
 
-Heute habe ich...
+Heute habe ich am Modul 117 weitergearbeitet und ich habe etwas über Künstliche Intelligenz rechechiert.
 
 ### Planung 16.01.2026
 
